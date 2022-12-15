@@ -1,2 +1,2 @@
-echo "We Did It!!"
-exit()
+print("We Did It!!")
+
